@@ -13,6 +13,7 @@
 💬&nbsp;Feel free to connect if you're into anime, cricket, music, or tech—or if you just need someone to obsess over all four in the same conversation.\
 ✍️ &nbsp;You can shoot me an email at aditya.shanbhag.dev@gmail.com! I'll try to respond as soon as I can.
 
+
 <img alt="Coding" src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif" align="right"/>
 
 ### 🛠 &nbsp; Tech & Tools I Pretend to Know
@@ -60,9 +61,9 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
 &nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-&nbsp;
+<br></br>
 
 ### 📪 &nbsp; Lets Connect!!
 
-| [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Github_black.svg" alt="GitHub" width="30">](https://github.com/aditya-shanbhag-dev) | [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Gmail_black.svg" alt="Gmail" width="30">](mailto:aditya.shanbhag.dev@gmail.com) | [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/LinkedIN_black.svg" alt="LinkedIn" width="30">](https://www.linkedin.com/in/aditya-shanbhag-5065b0240/) | [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Twitter_black.svg" alt="Twitter" width="30">](https://x.com/adityags05?t=YqsK9EZRqAWu8CG-tNNn1A&s=08) |
+| [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" alt="GitHub" width="30">](https://github.com/aditya-shanbhag-dev) | [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="30">](mailto:aditya.shanbhag.dev@gmail.com) | [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="30">](https://www.linkedin.com/in/aditya-shanbhag-5065b0240/) | [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" width="30">](https://x.com/adityags05) |
 |---|---|---|---|
